@@ -10,11 +10,14 @@ public class Dog {
 
     private String dogName;
     private String dogDescription;
+
+    private String dogType;
     //private byte[] imageData; // Assuming you store the image as a byte array
 
     public Dog(String dogName, String dogDescription, byte[] imageData) {
         this.dogName = dogName;
         this.dogDescription = dogDescription;
+        this.dogType = dogType;
         //this.imageData = imageData;
     }
 
@@ -43,6 +46,14 @@ public class Dog {
 
     public void setDogDescription(String dogDescription) {
         this.dogDescription = dogDescription;
+    }
+
+    public String getDogType() {
+        return dogType;
+    }
+
+    public void setDogType(String dogType) {
+        this.dogType = dogType;
     }
 
     //public byte[] getImageData() {
