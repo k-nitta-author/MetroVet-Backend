@@ -1,11 +1,13 @@
-C:\Users\LEGIONRED\Documents\Mapua 3rd Year\Term 2\IT193\Module 3\LoginAPI\LoginAPI\src\main\java\com\sample\LoginAPI\controller\AuthController.java
-C:\Users\LEGIONRED\Documents\Mapua 3rd Year\Term 2\IT193\Module 3\LoginAPI\LoginAPI\src\main\java\com\sample\LoginAPI\model\User.java
-C:\Users\LEGIONRED\Documents\Mapua 3rd Year\Term 2\IT193\Module 3\LoginAPI\LoginAPI\src\main\java\com\sample\LoginAPI\controller\UserController.java
-C:\Users\LEGIONRED\Documents\Mapua 3rd Year\Term 2\IT193\Module 3\LoginAPI\LoginAPI\src\main\java\com\sample\LoginAPI\service\AuthServiceImpl.java
-C:\Users\LEGIONRED\Documents\Mapua 3rd Year\Term 2\IT193\Module 3\LoginAPI\LoginAPI\src\main\java\com\sample\LoginAPI\repository\UserRepository.java
-C:\Users\LEGIONRED\Documents\Mapua 3rd Year\Term 2\IT193\Module 3\LoginAPI\LoginAPI\src\main\java\com\sample\LoginAPI\controller\AdminController.java
-C:\Users\LEGIONRED\Documents\Mapua 3rd Year\Term 2\IT193\Module 3\LoginAPI\LoginAPI\src\main\java\com\sample\LoginAPI\model\LoginRequest.java
-C:\Users\LEGIONRED\Documents\Mapua 3rd Year\Term 2\IT193\Module 3\LoginAPI\LoginAPI\src\main\java\com\sample\LoginAPI\model\Admin.java
-C:\Users\LEGIONRED\Documents\Mapua 3rd Year\Term 2\IT193\Module 3\LoginAPI\LoginAPI\src\main\java\com\sample\LoginAPI\repository\AdminRepository.java
-C:\Users\LEGIONRED\Documents\Mapua 3rd Year\Term 2\IT193\Module 3\LoginAPI\LoginAPI\src\main\java\com\sample\LoginAPI\LoginApiApplication.java
-C:\Users\LEGIONRED\Documents\Mapua 3rd Year\Term 2\IT193\Module 3\LoginAPI\LoginAPI\src\main\java\com\sample\LoginAPI\service\AuthService.java
+C:\Users\KENNICHI O NITTA\Documents\GitHub\MetroVet-Backend\MetroVet-Backend\src\main\java\com\sample\backend\MetroVetBackendApplication.java
+C:\Users\KENNICHI O NITTA\Documents\GitHub\MetroVet-Backend\MetroVet-Backend\src\main\java\com\sample\backend\model\Admin.java
+C:\Users\KENNICHI O NITTA\Documents\GitHub\MetroVet-Backend\MetroVet-Backend\src\main\java\com\sample\backend\repository\AdminRepository.java
+C:\Users\KENNICHI O NITTA\Documents\GitHub\MetroVet-Backend\MetroVet-Backend\src\main\java\com\sample\backend\repository\UserRepository.java
+C:\Users\KENNICHI O NITTA\Documents\GitHub\MetroVet-Backend\MetroVet-Backend\src\main\java\com\sample\backend\model\Dog.java
+C:\Users\KENNICHI O NITTA\Documents\GitHub\MetroVet-Backend\MetroVet-Backend\src\main\java\com\sample\backend\model\User.java
+C:\Users\KENNICHI O NITTA\Documents\GitHub\MetroVet-Backend\MetroVet-Backend\src\main\java\com\sample\backend\service\UserService.java
+C:\Users\KENNICHI O NITTA\Documents\GitHub\MetroVet-Backend\MetroVet-Backend\src\main\java\com\sample\backend\controller\DogController.java
+C:\Users\KENNICHI O NITTA\Documents\GitHub\MetroVet-Backend\MetroVet-Backend\src\main\java\com\sample\backend\service\AdminService.java
+C:\Users\KENNICHI O NITTA\Documents\GitHub\MetroVet-Backend\MetroVet-Backend\src\main\java\com\sample\backend\controller\AdminController.java
+C:\Users\KENNICHI O NITTA\Documents\GitHub\MetroVet-Backend\MetroVet-Backend\src\main\java\com\sample\backend\service\DogService.java
+C:\Users\KENNICHI O NITTA\Documents\GitHub\MetroVet-Backend\MetroVet-Backend\src\main\java\com\sample\backend\repository\DogRepository.java
+C:\Users\KENNICHI O NITTA\Documents\GitHub\MetroVet-Backend\MetroVet-Backend\src\main\java\com\sample\backend\controller\UserController.java
