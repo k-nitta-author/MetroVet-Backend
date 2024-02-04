@@ -10,12 +10,12 @@ public class Dog {
 
     private String dogName;
     private String dogDescription;
-    private byte[] imageData; // Assuming you store the image as a byte array
+    //private byte[] imageData; // Assuming you store the image as a byte array
 
     public Dog(String dogName, String dogDescription, byte[] imageData) {
         this.dogName = dogName;
         this.dogDescription = dogDescription;
-        this.imageData = imageData;
+        //this.imageData = imageData;
     }
 
     public Dog() {
@@ -45,11 +45,11 @@ public class Dog {
         this.dogDescription = dogDescription;
     }
 
-    public byte[] getImageData() {
-        return imageData;
-    }
+    //public byte[] getImageData() {
+     //   return imageData;
+   // }
 
-    public void setImageData(byte[] imageData) {
-        this.imageData = imageData;
-    }
+    //public void setImageData(byte[] imageData) {
+    //    this.imageData = imageData;
+   //}
 }
