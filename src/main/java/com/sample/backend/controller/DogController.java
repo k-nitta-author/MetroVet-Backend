@@ -47,6 +47,6 @@ public class DogController {
     @RequestMapping(value="/dog/{id}", method=RequestMethod.DELETE)
     public void deleteDog(@PathVariable int id)
     {
-        dogService.deleteUser(id);
+        dogService.deleteDog(id);
     }
 }

@@ -46,7 +46,7 @@ public class DogService {
 
 
     // Delete Dog Info
-    public void deleteUser(int id)
+    public void deleteDog(int id)
     {
         Optional<Dog> dog = dogRepository.findById(id);
         if(dog.isPresent()) {
