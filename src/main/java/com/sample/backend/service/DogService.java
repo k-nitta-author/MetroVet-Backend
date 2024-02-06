@@ -55,4 +55,26 @@ public class DogService {
     }
 
 
+    // Update Dog Info
+    public Dog updateDog(int id, Dog updatedDog) {
+        Optional<Dog> existingDogOptional = dogRepository.findById(id);
+
+        if (existingDogOptional.isPresent()) {
+            Dog existingDog = existingDogOptional.get();
+
+            // Update relevant fields of the existing dog
+            existingDog.setDogName(updatedDog.getDogName());
+            existingDog.setDogType(updatedDog.getDogType());
+            existingDog.setDogDescription(updatedDog.getDogDescription());
+            // Add other fields as needed
+
+            return dogRepository.save(existingDog);
+        } else {
+            // Dog with the given ID not found
+            return null;
+        }
+    }
+
+
+
 }

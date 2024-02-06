@@ -49,4 +49,12 @@ public class DogController {
     {
         dogService.deleteDog(id);
     }
+
+    // Update (Edit) a dog by ID
+    @RequestMapping(value = "/update-dog/{id}", method = RequestMethod.PUT)
+    public Dog updateUser(@PathVariable int id, @RequestBody Dog updatedDog) {
+        return dogService.updateDog(id, updatedDog);
+    }
+
+
 }
